@@ -19,6 +19,12 @@
    - `CountDays`: 要显示的日志天数，建议 60 或 90，显示效果比较好
    - `ShowLink`: 是否显示站点链接
    - `Navi`: 导航栏的菜单列表
+   - `UmamiId`: (新) Umami 统计站点的 ID
+   - `UmamiServer`: (新) Umami 统计站点的服务器地址
+   - `SEO_Description`: (新) SEO 描述
+   - `SEO_Keywords`: (新) SEO 关键词
+   - `CustomCSS`: (新) 自定义 CSS
+   - `CustomJS`: (新) 自定义 JS
 - 将所有文件上传到网站空间
 
 ⚠️ 如果没有修改代码的需求，您不需要 git clone 本项目，只需要下载 Release 的文件包即可。
